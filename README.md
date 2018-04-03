@@ -7,5 +7,5 @@ Standard arduino keyboard library is crap, only supports legacy original IBM key
 
 ![Button][button]
 
-[button]: https://github.com/cable89/button/button.jpg "Image of button"
-[library]: https://github.com/NicoHood/HID/blob/master/src/HID-Project.h
+[button]: https://github.com/Cable89/button/blob/master/button.jpg "Image of button"
+[library]: https://github.com/NicoHood/HID
